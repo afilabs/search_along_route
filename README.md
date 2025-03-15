@@ -3,7 +3,6 @@
 ![Google Search Along Route API](https://blog.afi.io/content/images/size/w1600/2025/03/Google-Direction--6-.png " Google Search Along Route API")
 
 Taken from: 
-Taken from: 
 - [A developer's guide to the Google Routes API (part 1 of 5)](https://blog.afi.io/blog/a-developers-guide-to-the-google-routes-api/)
 - [Plan a route with multiple stops using the Routes API (part 2 of 5)](https://blog.afi.io/blog/plan-a-route-with-multiple-stops-using-the-routes-api/)
 - [Using the Google Distance Matrix API for taxi dispatch (part 3 of 5)](https://blog.afi.io/blog/using-the-google-distance-matrix-api-for-taxi-dispatch/)
