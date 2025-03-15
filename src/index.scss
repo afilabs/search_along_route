@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif !important;
+
+  margin: 0;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.btn {
+  padding: 8px;
+  border-radius: 3px;
+  border: 1px solid #dedede;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
